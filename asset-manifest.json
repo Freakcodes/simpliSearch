@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simpliSearch/static/css/main.40cbbe45.css",
+    "main.js": "/simpliSearch/static/js/main.db8f328b.js",
+    "index.html": "/simpliSearch/index.html",
+    "main.40cbbe45.css.map": "/simpliSearch/static/css/main.40cbbe45.css.map",
+    "main.db8f328b.js.map": "/simpliSearch/static/js/main.db8f328b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40cbbe45.css",
+    "static/js/main.db8f328b.js"
+  ]
+}
